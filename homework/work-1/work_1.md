@@ -45,4 +45,9 @@
 - 学习贝叶斯定理，做下题：已知某种疾病的发病率是0.001，即1000人中会有1个人得病。现有一种试剂可以检验患者是否得病，它的准确率是0.99，即在患者确实得病的情况下，它有99%的可能呈现阳性。它的误报率是5%，即在患者没有得病的情况下，它有5%的可能呈现阳性。现有一个病人的检验结果为阳性，请问他确实得病的可能性有多大？
 
 - 解答：
-  - [参考资料：](http://wenku.baidu.com/link?url=SJy_MX1alWLreWe5iZqr84C4Tyo_vXR9R2S99a1ia8NAQdhl6nO8mc_PXHRiR0TZ7tsEAW3EWPw9PGaWeyAUOtEzCw651n9vgl-p1C5oc9K)
+  - [参考资料：贝叶斯介绍](http://wenku.baidu.com/link?url=SJy_MX1alWLreWe5iZqr84C4Tyo_vXR9R2S99a1ia8NAQdhl6nO8mc_PXHRiR0TZ7tsEAW3EWPw9PGaWeyAUOtEzCw651n9vgl-p1C5oc9K)
+
+  - 假设A事件：一个人得病；假设B事件：检测结果为阳性。因此，P(A)=0.001，即没有检验前一个人得病的概率；P(B)=P(B|A)P(A)+ P(B|^A)P(^A)，即一个人检测为阳性的概率；P(B|A) = 0.99；题目即为计算P(A|B);
+  - 从题目知道，一个人得病检测阳性概率=0.99，不得病检测阳性的概率=0.05，则P(B)=0.99*0.001 + 0.05*0.999=0.0594;
+  - 已知贝叶斯的全概率公式：后验概率=先验概率 * 调整因子，具体看参考资料的介绍，则P(A|B) = P(A)*P(B|A)/P(B) = 0.001 * 0.99 /0.0594 = 0.01667 
+  - 病人得病的概率只有0.01667.

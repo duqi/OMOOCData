@@ -26,7 +26,7 @@
 ## 问题二：
 
 - 理解什么是双盲实验：
-	- <u>[双盲实验]</u>(http://www.bing.com/knows/search?q=%E5%8F%8C%E7%9B%B2%E5%AE%9E%E9%AA%8C&mkt=zh-cn&FORM=BKACAI)：双盲实验是一种更加严格的实验方法，通常适用于以人为研究对象的实验（human subjects），旨在消除可能出现在实验者和参与者意识当中的主观偏差（subjective bias）和个人偏好（personal preferences）。在大多数情况下，双盲实验要求达到非常高的科学严格程度。在双盲实验中，实验者和参与者都不知道哪些参与者属于对照组（control group）、哪些属于实验组（experimental group）。只有在所有数据被记录完毕之后（在有些情况下是分析完毕之后），实验者才能知道那些参与者是哪些组的。采用双盲实验是为了要减少偏见（prejudices）和无意识地暗示（unintentional physical cues）对实验结果的影响。对于被试者的随机分配（Randomassignment）到对照组或者实验组的做法是双盲实验中至关重要的一部。确认哪些受试者属于那些组的信息交由第三方保管，并且在研究结束之前不能告知研究者。
+	- <u>[双盲实验](http://www.bing.com/knows/search?q=%E5%8F%8C%E7%9B%B2%E5%AE%9E%E9%AA%8C&mkt=zh-cn&FORM=BKACAI)</u>：双盲实验是一种更加严格的实验方法，通常适用于以人为研究对象的实验（human subjects），旨在消除可能出现在实验者和参与者意识当中的主观偏差（subjective bias）和个人偏好（personal preferences）。在大多数情况下，双盲实验要求达到非常高的科学严格程度。在双盲实验中，实验者和参与者都不知道哪些参与者属于对照组（control group）、哪些属于实验组（experimental group）。只有在所有数据被记录完毕之后（在有些情况下是分析完毕之后），实验者才能知道那些参与者是哪些组的。采用双盲实验是为了要减少偏见（prejudices）和无意识地暗示（unintentional physical cues）对实验结果的影响。对于被试者的随机分配（Randomassignment）到对照组或者实验组的做法是双盲实验中至关重要的一部。确认哪些受试者属于那些组的信息交由第三方保管，并且在研究结束之前不能告知研究者。
 	- 目前互联网公司普遍采用的A/B Test，假如用户不知道哪些是新的设计，可以看做一个『双盲实验』。
 
 - 学习使用google ngram服务，并研究你关心的某一组词汇的变化

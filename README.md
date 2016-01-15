@@ -10,7 +10,7 @@
 
 ## 1, 作业的链接 
 
-- [课程1:]() 
+- [课程1:](https://github.com/duqi/OMOOCData/blob/master/homework/work-1/work_1.md) 
 
 
 ## 2, 后记
